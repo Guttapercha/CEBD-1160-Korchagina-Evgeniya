@@ -1,0 +1,61 @@
+APPLICATION DOMAIN
+
+Improvement of infrastracture and public service in Montreal.
+
+DESCRIPTION
+
+---Based on information demand using service 311 of Montreal City we will figure out 
+the main issues to be solved in Montreal and predict possible future people' needs 
+based on demographic statistical data:
+
+-Data collected varies depending on neibourhood, date and time, type of application. 
+
+-Combining these date with socio-demographic data, one can make correlation analysis 
+based on number of habitants, sex, family status etc. 
+
+-Creating Pivot Table and applying Statistical and Conditional Analysis one can
+visualize data and highlight the main problems and potentially provide possible solutions. 
+
+
+ 
+SIX V: 
+ 
+-Value: Yes 
+
+Plots, graphics and histograms will provide visualization of problems to be solved.
+ 
+-Visibility: Yes 
+
+All data regarding numbers and statistics are public. However, no personal information on participants are provided. 
+
+-Velocity: No
+
+The data for analysis are collected for previous years. No real-time data are processed.
+
+-Volume: Yes 
+
+Information requests collected for 2-3 year period contains >1000000 records. 
+One should take into account demographic statistical data as well.
+ 
+-Variety: Yes 
+
+Data varies on districts, dates, types of requested information.
+Districts themselves are characterized by multiple parameters 
+(amount of habitants, sex, age, ethnicity, etc.)
+
+-Veracity: Yes
+
+No reason not to trust data collected by 311 town service and StatCan.
+
+
+DATA SETS:
+
+http://donnees.ville.montreal.qc.ca/dataset/requete-311
+
+Dataset contains info requests, dates and districts (for 2014-2016).
+
+http://ville.montreal.qc.ca/portal/page?_pageid=6897,68087646&_dad=portal&_schema=PORTAL
+
+Dataset with population statistics (age, sex, ethnicity,etc.) for 2016.
+Although the first dataset provides data for almost three years, one can use all of them for statistical analysis, 
+as well as to provide time trend over 3-year period.
