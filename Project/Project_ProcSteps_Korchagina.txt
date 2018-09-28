@@ -1,0 +1,23 @@
+1 step of data processing:
+
+-frequencey of each type of information requested 
+(MapReduce code similar to RatingCounter)
+
+2 step of data processing:
+
+-frequencey of information requested per date
+(MapReduce code similar to AvgAgeCounter, 
+but instead of calculating avg one should calculate sum)
+
+3 step of data processing:
+
+-frequencey of information requested per district
+(MapReduce code similar to step 2)
+
+4,5,6...
+
+>>What area requires the most attention from municipal government
+>>How problematic issues ralted to the preiod of the year
+>>What disctric has the most requests>> To see the link with population and
+ethnicity of the particular data>>based on demographic data to predict demands of 
+residential areas.

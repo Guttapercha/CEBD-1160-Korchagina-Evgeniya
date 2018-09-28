@@ -1,6 +1,7 @@
 APPLICATION DOMAIN
 
-Improvement of infrastracture and public service in Montreal.
+Improvement of infrastracture and public service in Montreal
+ and prediction of the future needs.
 
 DESCRIPTION
 
